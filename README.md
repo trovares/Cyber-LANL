@@ -4,10 +4,10 @@
 
 This repository contains a collection of notebooks that can be used to
 manipulate the [LANL Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html).
-Note that Trovares has prepared a version of this data ready for the xGT tool
-[LANL Dataset](https://datasets.trovares.com/cyber/LANL/).
-
-// 1. Use Case
+Note that Trovares has prepared a 
+[version of this data](https://datasets.trovares.com/cyber/LANL/)
+ready for the 
+[xGT analytics tool](docs.trovares.com).
 
   - [Lateral Movement](lateral_movement) is an example of searching for 
   evidence of lateral movement within an enterprise network
