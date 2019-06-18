@@ -9,7 +9,8 @@ Note that Trovares has prepared a
 ready for the 
 [xGT analytics tool](docs.trovares.com).
 
-  - [Lateral Movement](lateral_movement) is an example of searching for 
+  - [Lateral Movement](lateral_movement/lateral_movement.ipynb) is 
+  an example of searching for 
   evidence of lateral movement within an enterprise network
 
 ## License
