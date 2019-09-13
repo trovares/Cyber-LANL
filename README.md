@@ -13,6 +13,10 @@ ready for the
   an example of searching for 
   evidence of lateral movement within an enterprise network
 
+  - [Insider Threat Detection](insider_threat/insider_exfiltration_days2-3.ipynb) is 
+  an example of lookging for a pattern of an insider exfiltrating sensitive information
+  to an external destination
+
 ## License
 This project is licensed under the Apache License 2.0 - see 
 the [LICENSE](LICENSE) file for details.
