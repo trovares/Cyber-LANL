@@ -14,7 +14,7 @@ ready for the
   evidence of lateral movement within an enterprise network
 
   - [Insider Threat Detection](insider_threat/insider_exfiltration_days2-3.ipynb) is 
-  an example of lookging for a pattern of an insider exfiltrating sensitive information
+  an example of looking for a pattern of an insider exfiltrating sensitive information
   to an external destination
 
 ## License
